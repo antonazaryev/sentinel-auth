@@ -63,8 +63,8 @@ Design a **secure, horizontally‑scalable authentication platform** that can be
 
 ```text
 /apps
-  /authentication-frontend   (Next.js)
-  /authentication-backend    (Fastify)
+  /auth-frontend   (Next.js)
+  /auth-backend    (Fastify)
   /docs                      (ADR, PRD)
 /packages
   /shared-schemas            (Zod models)
